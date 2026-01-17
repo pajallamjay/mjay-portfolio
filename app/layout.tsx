@@ -8,8 +8,9 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Portfolio",
-  description: "Personal Portfolio",
+  title: "Mjay | Full Stack Developer",
+  description:
+    "Full Stack Developer specializing in React, Next.js, and Node.js. Building exceptional digital experiences.",
   generator: "v0.app",
   icons: {
     icon: [
@@ -36,7 +37,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="dark scroll-smooth">
       <body className={`font-sans antialiased`}>
         {children}
         <Analytics />
