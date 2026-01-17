@@ -1,15 +1,23 @@
 import { Header } from "@/components/header";
+import { HeroSection } from "@/components/hero-section";
+import { AboutSection } from "@/components/about-section";
+import { SkillsSection } from "@/components/skills-section";
+import { ProjectsSection } from "@/components/projects-section";
+import { ExperienceSection } from "@/components/experience-section";
+import { ContactSection } from "@/components/contact-section";
+import { Footer } from "@/components/footer";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-[#1a1a1a]">
+    <main className="min-h-screen bg-background">
       <Header />
-
-      {/* Placeholder content to show the header in context */}
-      <main className="container mx-auto px-6 py-20">
-        <h1 className="text-4xl font-bold text-white">Welcome</h1>
-        <p className="text-[#a3a3a3] mt-4">Portfolio content goes here...</p>
-      </main>
-    </div>
+      <HeroSection />
+      <AboutSection />
+      <SkillsSection />
+      <ProjectsSection />
+      <ExperienceSection />
+      <ContactSection />
+      <Footer />
+    </main>
   );
 }
