@@ -10,7 +10,7 @@ export function AboutSection() {
             <div className="relative">
               <div className="aspect-square relative rounded-2xl overflow-hidden bg-muted">
                 <Image
-                  src="/professional-developer-portrait-dark-minimal.jpg"
+                  src="/developer-portrait-dark-minimal.jpg"
                   alt="Profile photo"
                   fill
                   className="object-cover"

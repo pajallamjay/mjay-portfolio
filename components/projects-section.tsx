@@ -107,7 +107,7 @@ export function ProjectsSection() {
 
           <div className="text-center mt-12">
             <Button asChild variant="outline" size="lg">
-              <Link href="https://github.com" target="_blank">
+              <Link href="https://github.com/pajallamjay" target="_blank">
                 <Github size={20} className="mr-2" />
                 View All Projects
               </Link>
