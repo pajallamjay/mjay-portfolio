@@ -16,7 +16,7 @@ export function HeroSection() {
             Hello, I'm
           </p>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 text-balance">
-            John Doe
+            Mjay
           </h1>
           <h2 className="text-xl md:text-2xl lg:text-3xl text-muted-foreground mb-8">
             Full Stack Developer
@@ -40,7 +40,7 @@ export function HeroSection() {
 
           <div className="flex items-center justify-center gap-6">
             <Link
-              href="https://github.com"
+              href="https://github.com/pajallamjay"
               target="_blank"
               className="text-muted-foreground hover:text-foreground transition-colors"
               aria-label="GitHub"

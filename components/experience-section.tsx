@@ -3,9 +3,9 @@ import { Briefcase, GraduationCap } from "lucide-react";
 const experiences = [
   {
     type: "work",
-    title: "Senior Full Stack Developer",
+    title: "Junior Full Stack Developer",
     company: "Tech Innovations Inc.",
-    period: "2022 - Present",
+    period: "2025 - Present",
     description:
       "Lead development of scalable web applications serving 100k+ users. Architected microservices infrastructure and mentored junior developers.",
   },

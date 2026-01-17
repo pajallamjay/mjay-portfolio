@@ -28,11 +28,11 @@ export function AboutSection() {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  I'm a full-stack developer based in San Francisco with a
-                  passion for building digital products that make a difference.
-                  My journey in web development started 5 years ago, and since
-                  then, I've had the privilege of working with startups and
-                  established companies alike.
+                  I'm a full-stack developer based in Taytay, Rizal, Philippines
+                  with a passion for building digital products that make a
+                  difference. My journey in web development started 5 years ago,
+                  and since then, I've had the privilege of working with
+                  startups and established companies alike.
                 </p>
                 <p>
                   I specialize in JavaScript ecosystems, particularly React,
