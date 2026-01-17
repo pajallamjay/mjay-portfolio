@@ -54,7 +54,7 @@ export function ContactSection() {
                       href="mailto:hello@pajallamjay.dev"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      hello@pajallamjay.dev
+                      pajallamjay@gmail.com
                     </a>
                   </div>
                 </div>
