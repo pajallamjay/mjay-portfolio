@@ -22,7 +22,7 @@ export function Footer() {
               <Github size={20} />
             </Link>
             <Link
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/pajallamjay/"
               target="_blank"
               className="text-muted-foreground hover:text-foreground transition-colors"
               aria-label="LinkedIn"
